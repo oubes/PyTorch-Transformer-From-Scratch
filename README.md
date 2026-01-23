@@ -2,6 +2,11 @@
 
 An end-to-end implementation of the original Transformer architecture as described in the seminal paper **"Attention Is All You Need" (2017)**. This project focuses on building the entire mechanism from the ground up using **PyTorch 2.7.0**.
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2e5c81e0-bd95-4de3-b5b7-d7da2a8345c6" width="340">
+</p>
+
 ---
 
 ## 📌 Project Overview
@@ -97,3 +102,4 @@ While building this, I explored:
 ## 📄 License
 
 MIT License. Feel free to use and modify!
+
